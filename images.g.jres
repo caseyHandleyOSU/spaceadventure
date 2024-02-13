@@ -1,0 +1,27 @@
+{
+    "image2": {
+        "data": "hwQQABAAAACZmZkAAJmZmZmZmQmQmZmZmZmZCZCZmZmZmZmZmZmZmZmZmZmZmZmZkJmZmZmZmQmQmZmZmZmZCZCZmZmZmZkJkJmZmZmZmQkAmZmZmZmZAACZmZmZmZkAAJCZmZmZCQAAAJmZmZkAAAAAkJmZCQAAAAAAmZkAAAAAAACZmQAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "spaceship"
+    },
+    "image3": {
+        "data": "hwQDAAEAAAAFAAAABQAAAAUAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "laser"
+    },
+    "image1": {
+        "data": "hwQCAAIAAAARAAAAEQAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "star"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAC7RAAAAAAAu11NAAAAALsjU00AAAC7XSJSTQAAu11XI10EALA9MlVV1QS7SyUiVVfVBEu7NTJVVUUAS7RVVSNTTQBLtFRXIlJNALBES1UjU00AAEvkVFXVBAAAsETuVd0EAAAAS+Te7QAAAACw5O5OAAAAAADu7gQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
